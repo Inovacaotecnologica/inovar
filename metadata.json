@@ -1,0 +1,5 @@
+{
+  "name": "CRIE INOVE ",
+  "description": "Um site de e-commerce moderno e responsivo para a marca INOVE, que vende adesivos, capachos e outros itens personalizados. O catálogo de produtos é carregado dinamicamente de uma planilha do Google Sheets, e a finalização da compra é feita via WhatsApp.",
+  "requestFramePermissions": []
+}
